@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Earth Observation & Remote Sensing Lab
 
-You can use the [editor on GitHub](https://github.com/ehestir/EORS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Our lab studies the impacts of climate change, land use, and water management on all Earth ecosystems with a particular focus on aquatic systems. We use a combination of satellite and airborne imagery, field observations, and laboratory experiments. Study sites range from arctic to tidal wetlands and coral reefs. Our research spans the biological, physical, and meteorological aspects of these systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our lab is lead by Dr. Erin Hestir, Assistant Professor in Geospatial Analytics and Remote Sensing in the Department of Civil and Environmental Engineering at UC Merced.
 
-### Markdown
+### Research 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our research focuses on Earth observations, such as field measurements and observations from sensors on airplanes or satellites to study how ecosystems are changing.  Our study sites are located all over the globe, from the Arctic to the Florida Keys to the waterways of California. Click on the links to learn more about some of the exciting research we do.
 
 ```markdown
 Syntax highlighted code block
